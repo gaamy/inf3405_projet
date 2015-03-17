@@ -6,6 +6,12 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		FC4FA4891AB8946300CFFBA5 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FC4FA3F81AB8946300CFFBA5 /* main.cpp */; };
+		FC4FA48A1AB8946300CFFBA5 /* Main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FC4FA4411AB8946300CFFBA5 /* Main.cpp */; };
+		FC4FA48B1AB8946300CFFBA5 /* Main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FC4FA46E1AB8946300CFFBA5 /* Main.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		FC4FA3C81AB8912000CFFBA5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +26,166 @@
 
 /* Begin PBXFileReference section */
 		FC4FA3CA1AB8912000CFFBA5 /* inf3405_tp4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = inf3405_tp4; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC4FA3D51AB8946300CFFBA5 /* Lab3Serveur_A2012.sln */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3Serveur_A2012.sln; sourceTree = "<group>"; };
+		FC4FA3D61AB8946300CFFBA5 /* Lab3Serveur_A2012.suo */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3Serveur_A2012.suo; sourceTree = "<group>"; };
+		FC4FA3D71AB8946300CFFBA5 /* Lab3Serveur_A2012.v12.suo */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3Serveur_A2012.v12.suo; sourceTree = "<group>"; };
+		FC4FA3DA1AB8946300CFFBA5 /* cl.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cl.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA3DB1AB8946300CFFBA5 /* CL.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA3DC1AB8946300CFFBA5 /* CL.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA3DD1AB8946300CFFBA5 /* Lab3Serveur_H2012.exe.embed.manifest */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab3Serveur_H2012.exe.embed.manifest; sourceTree = "<group>"; };
+		FC4FA3DE1AB8946300CFFBA5 /* Lab3Serveur_H2012.exe.embed.manifest.res */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3Serveur_H2012.exe.embed.manifest.res; sourceTree = "<group>"; };
+		FC4FA3DF1AB8946300CFFBA5 /* Lab3Serveur_H2012.exe.intermediate.manifest */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab3Serveur_H2012.exe.intermediate.manifest; sourceTree = "<group>"; };
+		FC4FA3E01AB8946300CFFBA5 /* Lab3Serveur_H2012.lastbuildstate */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3Serveur_H2012.lastbuildstate; sourceTree = "<group>"; };
+		FC4FA3E11AB8946300CFFBA5 /* Lab3Serveur_H2012.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3Serveur_H2012.log; sourceTree = "<group>"; };
+		FC4FA3E21AB8946300CFFBA5 /* Lab3Serveur_H2012_manifest.rc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3Serveur_H2012_manifest.rc; sourceTree = "<group>"; };
+		FC4FA3E31AB8946300CFFBA5 /* link-cvtres.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "link-cvtres.read.1.tlog"; sourceTree = "<group>"; };
+		FC4FA3E41AB8946300CFFBA5 /* link-cvtres.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "link-cvtres.write.1.tlog"; sourceTree = "<group>"; };
+		FC4FA3E51AB8946300CFFBA5 /* link.2772-cvtres.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "link.2772-cvtres.read.1.tlog"; sourceTree = "<group>"; };
+		FC4FA3E61AB8946300CFFBA5 /* link.2772-cvtres.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "link.2772-cvtres.write.1.tlog"; sourceTree = "<group>"; };
+		FC4FA3E71AB8946300CFFBA5 /* link.2772.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.2772.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA3E81AB8946300CFFBA5 /* link.2772.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.2772.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA3E91AB8946300CFFBA5 /* link.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA3EA1AB8946300CFFBA5 /* link.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA3EB1AB8946300CFFBA5 /* link.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA3EC1AB8946300CFFBA5 /* main.obj */ = {isa = PBXFileReference; lastKnownFileType = file; path = main.obj; sourceTree = "<group>"; };
+		FC4FA3ED1AB8946300CFFBA5 /* mt.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA3EE1AB8946300CFFBA5 /* mt.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA3EF1AB8946300CFFBA5 /* mt.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA3F01AB8946300CFFBA5 /* rc.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rc.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA3F11AB8946300CFFBA5 /* rc.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rc.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA3F21AB8946300CFFBA5 /* rc.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rc.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA3F31AB8946300CFFBA5 /* vc100.idb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc100.idb; sourceTree = "<group>"; };
+		FC4FA3F41AB8946300CFFBA5 /* vc100.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc100.pdb; sourceTree = "<group>"; };
+		FC4FA3F51AB8946300CFFBA5 /* Lab3Serveur_H2012.vcxproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab3Serveur_H2012.vcxproj; sourceTree = "<group>"; };
+		FC4FA3F61AB8946300CFFBA5 /* Lab3Serveur_H2012.vcxproj.filters */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab3Serveur_H2012.vcxproj.filters; sourceTree = "<group>"; };
+		FC4FA3F71AB8946300CFFBA5 /* Lab3Serveur_H2012.vcxproj.user */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab3Serveur_H2012.vcxproj.user; sourceTree = "<group>"; };
+		FC4FA3F81AB8946300CFFBA5 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		FC4FA3FA1AB8946300CFFBA5 /* cl.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cl.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA3FB1AB8946300CFFBA5 /* CL.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA3FC1AB8946300CFFBA5 /* CL.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA3FE1AB8946300CFFBA5 /* cl.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cl.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA3FF1AB8946300CFFBA5 /* CL.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4001AB8946300CFFBA5 /* CL.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4011AB8946300CFFBA5 /* Lab3Serveur_A2012.lastbuildstate */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3Serveur_A2012.lastbuildstate; sourceTree = "<group>"; };
+		FC4FA4021AB8946300CFFBA5 /* link.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA4031AB8946300CFFBA5 /* link.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4041AB8946300CFFBA5 /* link.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4051AB8946300CFFBA5 /* Lab3Serveur_A2012.exe.intermediate.manifest */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab3Serveur_A2012.exe.intermediate.manifest; sourceTree = "<group>"; };
+		FC4FA4061AB8946300CFFBA5 /* Lab3Serveur_A2012.lastbuildstate */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3Serveur_A2012.lastbuildstate; sourceTree = "<group>"; };
+		FC4FA4071AB8946300CFFBA5 /* Lab3Serveur_H2012.Build.CppClean.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3Serveur_H2012.Build.CppClean.log; sourceTree = "<group>"; };
+		FC4FA4081AB8946300CFFBA5 /* Lab3Serveur_H2012.exe.intermediate.manifest */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab3Serveur_H2012.exe.intermediate.manifest; sourceTree = "<group>"; };
+		FC4FA4091AB8946300CFFBA5 /* Lab3Serveur_H2012.lastbuildstate */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3Serveur_H2012.lastbuildstate; sourceTree = "<group>"; };
+		FC4FA40A1AB8946300CFFBA5 /* Lab3Serveur_H2012.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3Serveur_H2012.log; sourceTree = "<group>"; };
+		FC4FA40B1AB8946300CFFBA5 /* link.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA40C1AB8946300CFFBA5 /* link.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA40D1AB8946300CFFBA5 /* link.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA40E1AB8946300CFFBA5 /* main.obj */ = {isa = PBXFileReference; lastKnownFileType = file; path = main.obj; sourceTree = "<group>"; };
+		FC4FA40F1AB8946300CFFBA5 /* mt.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA4101AB8946300CFFBA5 /* mt.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4111AB8946300CFFBA5 /* mt.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4121AB8946300CFFBA5 /* vc100.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc100.pdb; sourceTree = "<group>"; };
+		FC4FA4131AB8946300CFFBA5 /* vc120.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc120.pdb; sourceTree = "<group>"; };
+		FC4FA4151AB8946300CFFBA5 /* Lab3Serveur_A2012.exe */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3Serveur_A2012.exe; sourceTree = "<group>"; };
+		FC4FA4161AB8946300CFFBA5 /* Lab3Serveur_A2012.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3Serveur_A2012.pdb; sourceTree = "<group>"; };
+		FC4FA4171AB8946300CFFBA5 /* Lab3Serveur_H2012.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3Serveur_H2012.pdb; sourceTree = "<group>"; };
+		FC4FA41A1AB8946300CFFBA5 /* UpgradeReport.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = UpgradeReport.css; sourceTree = "<group>"; };
+		FC4FA41B1AB8946300CFFBA5 /* UpgradeReport.xslt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = UpgradeReport.xslt; sourceTree = "<group>"; };
+		FC4FA41C1AB8946300CFFBA5 /* UpgradeReport_Minus.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = UpgradeReport_Minus.gif; sourceTree = "<group>"; };
+		FC4FA41D1AB8946300CFFBA5 /* UpgradeReport_Plus.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = UpgradeReport_Plus.gif; sourceTree = "<group>"; };
+		FC4FA41F1AB8946300CFFBA5 /* Lab301.exe.CodeAnalysisLog.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab301.exe.CodeAnalysisLog.xml; sourceTree = "<group>"; };
+		FC4FA4201AB8946300CFFBA5 /* Lab301.exe.lastcodeanalysissucceeded */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab301.exe.lastcodeanalysissucceeded; sourceTree = "<group>"; };
+		FC4FA4211AB8946300CFFBA5 /* Lab301.ilk */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab301.ilk; sourceTree = "<group>"; };
+		FC4FA4221AB8946300CFFBA5 /* Lab302.ilk */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab302.ilk; sourceTree = "<group>"; };
+		FC4FA4231AB8946300CFFBA5 /* Lab3.ncb */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3.ncb; sourceTree = "<group>"; };
+		FC4FA4241AB8946300CFFBA5 /* Lab3.opensdf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3.opensdf; sourceTree = "<group>"; };
+		FC4FA4251AB8946300CFFBA5 /* Lab3.sdf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3.sdf; sourceTree = "<group>"; };
+		FC4FA4261AB8946300CFFBA5 /* Lab3.sln */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab3.sln; sourceTree = "<group>"; };
+		FC4FA4271AB8946300CFFBA5 /* Lab3.suo */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3.suo; sourceTree = "<group>"; };
+		FC4FA4281AB8946300CFFBA5 /* Lab3.v11.suo */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab3.v11.suo; sourceTree = "<group>"; };
+		FC4FA42C1AB8946300CFFBA5 /* BuildLog.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BuildLog.htm; sourceTree = "<group>"; };
+		FC4FA42D1AB8946300CFFBA5 /* Lab301.exe */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab301.exe; sourceTree = "<group>"; };
+		FC4FA42E1AB8946300CFFBA5 /* Lab301.ilk */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab301.ilk; sourceTree = "<group>"; };
+		FC4FA42F1AB8946300CFFBA5 /* Lab301.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab301.log; sourceTree = "<group>"; };
+		FC4FA4301AB8946300CFFBA5 /* Lab301.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab301.pdb; sourceTree = "<group>"; };
+		FC4FA4321AB8946300CFFBA5 /* cl.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cl.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA4331AB8946300CFFBA5 /* CL.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4341AB8946300CFFBA5 /* CL.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4351AB8946300CFFBA5 /* Lab301.lastbuildstate */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab301.lastbuildstate; sourceTree = "<group>"; };
+		FC4FA4361AB8946300CFFBA5 /* link.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA4371AB8946300CFFBA5 /* link.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4381AB8946300CFFBA5 /* link.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4391AB8946300CFFBA5 /* Main.obj */ = {isa = PBXFileReference; lastKnownFileType = file; path = Main.obj; sourceTree = "<group>"; };
+		FC4FA43A1AB8946300CFFBA5 /* vc120.idb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc120.idb; sourceTree = "<group>"; };
+		FC4FA43B1AB8946300CFFBA5 /* vc120.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc120.pdb; sourceTree = "<group>"; };
+		FC4FA43C1AB8946300CFFBA5 /* Lab301.v12.suo */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab301.v12.suo; sourceTree = "<group>"; };
+		FC4FA43D1AB8946300CFFBA5 /* Lab301.vcproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab301.vcproj; sourceTree = "<group>"; };
+		FC4FA43E1AB8946300CFFBA5 /* Lab301.vcxproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab301.vcxproj; sourceTree = "<group>"; };
+		FC4FA43F1AB8946300CFFBA5 /* Lab301.vcxproj.filters */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab301.vcxproj.filters; sourceTree = "<group>"; };
+		FC4FA4401AB8946300CFFBA5 /* Lab301.vcxproj.user */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab301.vcxproj.user; sourceTree = "<group>"; };
+		FC4FA4411AB8946300CFFBA5 /* Main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Main.cpp; sourceTree = "<group>"; };
+		FC4FA4431AB8946300CFFBA5 /* BuildLog.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BuildLog.htm; sourceTree = "<group>"; };
+		FC4FA4441AB8946300CFFBA5 /* cl.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cl.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA4451AB8946300CFFBA5 /* CL.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4461AB8946300CFFBA5 /* CL.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4471AB8946300CFFBA5 /* Lab301.exe.intermediate.manifest */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab301.exe.intermediate.manifest; sourceTree = "<group>"; };
+		FC4FA4481AB8946300CFFBA5 /* Lab301.lastbuildstate */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab301.lastbuildstate; sourceTree = "<group>"; };
+		FC4FA4491AB8946300CFFBA5 /* Lab301.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab301.log; sourceTree = "<group>"; };
+		FC4FA44A1AB8946300CFFBA5 /* link.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA44B1AB8946300CFFBA5 /* link.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA44C1AB8946300CFFBA5 /* link.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA44D1AB8946300CFFBA5 /* Main.obj */ = {isa = PBXFileReference; lastKnownFileType = file; path = Main.obj; sourceTree = "<group>"; };
+		FC4FA44E1AB8946300CFFBA5 /* mt.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA44F1AB8946300CFFBA5 /* mt.dep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.dep; sourceTree = "<group>"; };
+		FC4FA4501AB8946300CFFBA5 /* mt.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4511AB8946300CFFBA5 /* mt.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4521AB8946300CFFBA5 /* vc100.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc100.pdb; sourceTree = "<group>"; };
+		FC4FA4531AB8946300CFFBA5 /* UpgradeLog.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UpgradeLog.htm; sourceTree = "<group>"; };
+		FC4FA4581AB8946300CFFBA5 /* BuildLog.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BuildLog.htm; sourceTree = "<group>"; };
+		FC4FA4591AB8946300CFFBA5 /* Lab302.exe */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab302.exe; sourceTree = "<group>"; };
+		FC4FA45A1AB8946300CFFBA5 /* Lab302.ilk */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab302.ilk; sourceTree = "<group>"; };
+		FC4FA45B1AB8946300CFFBA5 /* Lab302.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab302.log; sourceTree = "<group>"; };
+		FC4FA45C1AB8946300CFFBA5 /* Lab302.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab302.pdb; sourceTree = "<group>"; };
+		FC4FA45E1AB8946300CFFBA5 /* cl.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cl.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA45F1AB8946300CFFBA5 /* CL.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4601AB8946300CFFBA5 /* CL.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4611AB8946300CFFBA5 /* Lab302.lastbuildstate */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab302.lastbuildstate; sourceTree = "<group>"; };
+		FC4FA4621AB8946300CFFBA5 /* link.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA4631AB8946300CFFBA5 /* link.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4641AB8946300CFFBA5 /* link.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4651AB8946300CFFBA5 /* Main.obj */ = {isa = PBXFileReference; lastKnownFileType = file; path = Main.obj; sourceTree = "<group>"; };
+		FC4FA4661AB8946300CFFBA5 /* vc120.idb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc120.idb; sourceTree = "<group>"; };
+		FC4FA4671AB8946300CFFBA5 /* vc120.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc120.pdb; sourceTree = "<group>"; };
+		FC4FA4681AB8946300CFFBA5 /* Lab302.sln */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab302.sln; sourceTree = "<group>"; };
+		FC4FA4691AB8946300CFFBA5 /* Lab302.v12.suo */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab302.v12.suo; sourceTree = "<group>"; };
+		FC4FA46A1AB8946300CFFBA5 /* Lab302.vcproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab302.vcproj; sourceTree = "<group>"; };
+		FC4FA46B1AB8946300CFFBA5 /* Lab302.vcxproj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab302.vcxproj; sourceTree = "<group>"; };
+		FC4FA46C1AB8946300CFFBA5 /* Lab302.vcxproj.filters */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab302.vcxproj.filters; sourceTree = "<group>"; };
+		FC4FA46D1AB8946300CFFBA5 /* Lab302.vcxproj.user */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab302.vcxproj.user; sourceTree = "<group>"; };
+		FC4FA46E1AB8946300CFFBA5 /* Main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Main.cpp; sourceTree = "<group>"; };
+		FC4FA4701AB8946300CFFBA5 /* BuildLog.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BuildLog.htm; sourceTree = "<group>"; };
+		FC4FA4711AB8946300CFFBA5 /* cl.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cl.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA4721AB8946300CFFBA5 /* CL.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA4731AB8946300CFFBA5 /* CL.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CL.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4741AB8946300CFFBA5 /* Lab302.Build.CppClean.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab302.Build.CppClean.log; sourceTree = "<group>"; };
+		FC4FA4751AB8946300CFFBA5 /* Lab302.exe.intermediate.manifest */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Lab302.exe.intermediate.manifest; sourceTree = "<group>"; };
+		FC4FA4761AB8946300CFFBA5 /* Lab302.lastbuildstate */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab302.lastbuildstate; sourceTree = "<group>"; };
+		FC4FA4771AB8946300CFFBA5 /* Lab302.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Lab302.log; sourceTree = "<group>"; };
+		FC4FA4781AB8946300CFFBA5 /* link.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA4791AB8946300CFFBA5 /* link.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA47A1AB8946300CFFBA5 /* link.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = link.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA47B1AB8946300CFFBA5 /* Main.obj */ = {isa = PBXFileReference; lastKnownFileType = file; path = Main.obj; sourceTree = "<group>"; };
+		FC4FA47C1AB8946300CFFBA5 /* mt.command.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.command.1.tlog; sourceTree = "<group>"; };
+		FC4FA47D1AB8946300CFFBA5 /* mt.dep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.dep; sourceTree = "<group>"; };
+		FC4FA47E1AB8946300CFFBA5 /* mt.read.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.read.1.tlog; sourceTree = "<group>"; };
+		FC4FA47F1AB8946300CFFBA5 /* mt.write.1.tlog */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mt.write.1.tlog; sourceTree = "<group>"; };
+		FC4FA4801AB8946300CFFBA5 /* vc100.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = vc100.pdb; sourceTree = "<group>"; };
+		FC4FA4811AB8946300CFFBA5 /* UpgradeLog.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UpgradeLog.htm; sourceTree = "<group>"; };
+		FC4FA4821AB8946300CFFBA5 /* UpgradeLog2.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UpgradeLog2.htm; sourceTree = "<group>"; };
+		FC4FA4841AB8946300CFFBA5 /* Lab301.exe */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab301.exe; sourceTree = "<group>"; };
+		FC4FA4851AB8946300CFFBA5 /* Lab301.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab301.pdb; sourceTree = "<group>"; };
+		FC4FA4861AB8946300CFFBA5 /* Lab302.exe */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab302.exe; sourceTree = "<group>"; };
+		FC4FA4871AB8946300CFFBA5 /* Lab302.pdb */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab302.pdb; sourceTree = "<group>"; };
+		FC4FA4881AB8946300CFFBA5 /* UpgradeLog.XML */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = UpgradeLog.XML; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,7 +202,8 @@
 		FC4FA3C11AB8912000CFFBA5 = {
 			isa = PBXGroup;
 			children = (
-				FC4FA3CC1AB8912000CFFBA5 /* inf3405_tp4 */,
+				FC4FA3D41AB8946300CFFBA5 /* Lab3Serveur */,
+				FC4FA4181AB8946300CFFBA5 /* Lab3_Clients */,
 				FC4FA3CB1AB8912000CFFBA5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,11 +216,330 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FC4FA3CC1AB8912000CFFBA5 /* inf3405_tp4 */ = {
+		FC4FA3D41AB8946300CFFBA5 /* Lab3Serveur */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA3D51AB8946300CFFBA5 /* Lab3Serveur_A2012.sln */,
+				FC4FA3D61AB8946300CFFBA5 /* Lab3Serveur_A2012.suo */,
+				FC4FA3D71AB8946300CFFBA5 /* Lab3Serveur_A2012.v12.suo */,
+				FC4FA3D81AB8946300CFFBA5 /* Lab3Serveur_H2012 */,
+				FC4FA4141AB8946300CFFBA5 /* Release */,
+			);
+			path = Lab3Serveur;
+			sourceTree = "<group>";
+		};
+		FC4FA3D81AB8946300CFFBA5 /* Lab3Serveur_H2012 */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA3D91AB8946300CFFBA5 /* Debug */,
+				FC4FA3F51AB8946300CFFBA5 /* Lab3Serveur_H2012.vcxproj */,
+				FC4FA3F61AB8946300CFFBA5 /* Lab3Serveur_H2012.vcxproj.filters */,
+				FC4FA3F71AB8946300CFFBA5 /* Lab3Serveur_H2012.vcxproj.user */,
+				FC4FA3F81AB8946300CFFBA5 /* main.cpp */,
+				FC4FA3F91AB8946300CFFBA5 /* Release */,
+			);
+			path = Lab3Serveur_H2012;
+			sourceTree = "<group>";
+		};
+		FC4FA3D91AB8946300CFFBA5 /* Debug */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA3DA1AB8946300CFFBA5 /* cl.command.1.tlog */,
+				FC4FA3DB1AB8946300CFFBA5 /* CL.read.1.tlog */,
+				FC4FA3DC1AB8946300CFFBA5 /* CL.write.1.tlog */,
+				FC4FA3DD1AB8946300CFFBA5 /* Lab3Serveur_H2012.exe.embed.manifest */,
+				FC4FA3DE1AB8946300CFFBA5 /* Lab3Serveur_H2012.exe.embed.manifest.res */,
+				FC4FA3DF1AB8946300CFFBA5 /* Lab3Serveur_H2012.exe.intermediate.manifest */,
+				FC4FA3E01AB8946300CFFBA5 /* Lab3Serveur_H2012.lastbuildstate */,
+				FC4FA3E11AB8946300CFFBA5 /* Lab3Serveur_H2012.log */,
+				FC4FA3E21AB8946300CFFBA5 /* Lab3Serveur_H2012_manifest.rc */,
+				FC4FA3E31AB8946300CFFBA5 /* link-cvtres.read.1.tlog */,
+				FC4FA3E41AB8946300CFFBA5 /* link-cvtres.write.1.tlog */,
+				FC4FA3E51AB8946300CFFBA5 /* link.2772-cvtres.read.1.tlog */,
+				FC4FA3E61AB8946300CFFBA5 /* link.2772-cvtres.write.1.tlog */,
+				FC4FA3E71AB8946300CFFBA5 /* link.2772.read.1.tlog */,
+				FC4FA3E81AB8946300CFFBA5 /* link.2772.write.1.tlog */,
+				FC4FA3E91AB8946300CFFBA5 /* link.command.1.tlog */,
+				FC4FA3EA1AB8946300CFFBA5 /* link.read.1.tlog */,
+				FC4FA3EB1AB8946300CFFBA5 /* link.write.1.tlog */,
+				FC4FA3EC1AB8946300CFFBA5 /* main.obj */,
+				FC4FA3ED1AB8946300CFFBA5 /* mt.command.1.tlog */,
+				FC4FA3EE1AB8946300CFFBA5 /* mt.read.1.tlog */,
+				FC4FA3EF1AB8946300CFFBA5 /* mt.write.1.tlog */,
+				FC4FA3F01AB8946300CFFBA5 /* rc.command.1.tlog */,
+				FC4FA3F11AB8946300CFFBA5 /* rc.read.1.tlog */,
+				FC4FA3F21AB8946300CFFBA5 /* rc.write.1.tlog */,
+				FC4FA3F31AB8946300CFFBA5 /* vc100.idb */,
+				FC4FA3F41AB8946300CFFBA5 /* vc100.pdb */,
+			);
+			path = Debug;
+			sourceTree = "<group>";
+		};
+		FC4FA3F91AB8946300CFFBA5 /* Release */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA3FA1AB8946300CFFBA5 /* cl.command.1.tlog */,
+				FC4FA3FB1AB8946300CFFBA5 /* CL.read.1.tlog */,
+				FC4FA3FC1AB8946300CFFBA5 /* CL.write.1.tlog */,
+				FC4FA3FD1AB8946300CFFBA5 /* Lab3Serv.88A1CB67.tlog */,
+				FC4FA4051AB8946300CFFBA5 /* Lab3Serveur_A2012.exe.intermediate.manifest */,
+				FC4FA4061AB8946300CFFBA5 /* Lab3Serveur_A2012.lastbuildstate */,
+				FC4FA4071AB8946300CFFBA5 /* Lab3Serveur_H2012.Build.CppClean.log */,
+				FC4FA4081AB8946300CFFBA5 /* Lab3Serveur_H2012.exe.intermediate.manifest */,
+				FC4FA4091AB8946300CFFBA5 /* Lab3Serveur_H2012.lastbuildstate */,
+				FC4FA40A1AB8946300CFFBA5 /* Lab3Serveur_H2012.log */,
+				FC4FA40B1AB8946300CFFBA5 /* link.command.1.tlog */,
+				FC4FA40C1AB8946300CFFBA5 /* link.read.1.tlog */,
+				FC4FA40D1AB8946300CFFBA5 /* link.write.1.tlog */,
+				FC4FA40E1AB8946300CFFBA5 /* main.obj */,
+				FC4FA40F1AB8946300CFFBA5 /* mt.command.1.tlog */,
+				FC4FA4101AB8946300CFFBA5 /* mt.read.1.tlog */,
+				FC4FA4111AB8946300CFFBA5 /* mt.write.1.tlog */,
+				FC4FA4121AB8946300CFFBA5 /* vc100.pdb */,
+				FC4FA4131AB8946300CFFBA5 /* vc120.pdb */,
+			);
+			path = Release;
+			sourceTree = "<group>";
+		};
+		FC4FA3FD1AB8946300CFFBA5 /* Lab3Serv.88A1CB67.tlog */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA3FE1AB8946300CFFBA5 /* cl.command.1.tlog */,
+				FC4FA3FF1AB8946300CFFBA5 /* CL.read.1.tlog */,
+				FC4FA4001AB8946300CFFBA5 /* CL.write.1.tlog */,
+				FC4FA4011AB8946300CFFBA5 /* Lab3Serveur_A2012.lastbuildstate */,
+				FC4FA4021AB8946300CFFBA5 /* link.command.1.tlog */,
+				FC4FA4031AB8946300CFFBA5 /* link.read.1.tlog */,
+				FC4FA4041AB8946300CFFBA5 /* link.write.1.tlog */,
+			);
+			path = Lab3Serv.88A1CB67.tlog;
+			sourceTree = "<group>";
+		};
+		FC4FA4141AB8946300CFFBA5 /* Release */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA4151AB8946300CFFBA5 /* Lab3Serveur_A2012.exe */,
+				FC4FA4161AB8946300CFFBA5 /* Lab3Serveur_A2012.pdb */,
+				FC4FA4171AB8946300CFFBA5 /* Lab3Serveur_H2012.pdb */,
+			);
+			path = Release;
+			sourceTree = "<group>";
+		};
+		FC4FA4181AB8946300CFFBA5 /* Lab3_Clients */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA4191AB8946300CFFBA5 /* _UpgradeReport_Files */,
+				FC4FA41E1AB8946300CFFBA5 /* Debug */,
+				FC4FA4231AB8946300CFFBA5 /* Lab3.ncb */,
+				FC4FA4241AB8946300CFFBA5 /* Lab3.opensdf */,
+				FC4FA4251AB8946300CFFBA5 /* Lab3.sdf */,
+				FC4FA4261AB8946300CFFBA5 /* Lab3.sln */,
+				FC4FA4271AB8946300CFFBA5 /* Lab3.suo */,
+				FC4FA4281AB8946300CFFBA5 /* Lab3.v11.suo */,
+				FC4FA4291AB8946300CFFBA5 /* Lab301 */,
+				FC4FA4541AB8946300CFFBA5 /* Lab302 */,
+				FC4FA4831AB8946300CFFBA5 /* Release */,
+				FC4FA4881AB8946300CFFBA5 /* UpgradeLog.XML */,
+			);
+			path = Lab3_Clients;
+			sourceTree = "<group>";
+		};
+		FC4FA4191AB8946300CFFBA5 /* _UpgradeReport_Files */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA41A1AB8946300CFFBA5 /* UpgradeReport.css */,
+				FC4FA41B1AB8946300CFFBA5 /* UpgradeReport.xslt */,
+				FC4FA41C1AB8946300CFFBA5 /* UpgradeReport_Minus.gif */,
+				FC4FA41D1AB8946300CFFBA5 /* UpgradeReport_Plus.gif */,
+			);
+			path = _UpgradeReport_Files;
+			sourceTree = "<group>";
+		};
+		FC4FA41E1AB8946300CFFBA5 /* Debug */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA41F1AB8946300CFFBA5 /* Lab301.exe.CodeAnalysisLog.xml */,
+				FC4FA4201AB8946300CFFBA5 /* Lab301.exe.lastcodeanalysissucceeded */,
+				FC4FA4211AB8946300CFFBA5 /* Lab301.ilk */,
+				FC4FA4221AB8946300CFFBA5 /* Lab302.ilk */,
+			);
+			path = Debug;
+			sourceTree = "<group>";
+		};
+		FC4FA4291AB8946300CFFBA5 /* Lab301 */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA42A1AB8946300CFFBA5 /* Backup */,
+				FC4FA42B1AB8946300CFFBA5 /* Debug */,
+				FC4FA43C1AB8946300CFFBA5 /* Lab301.v12.suo */,
+				FC4FA43D1AB8946300CFFBA5 /* Lab301.vcproj */,
+				FC4FA43E1AB8946300CFFBA5 /* Lab301.vcxproj */,
+				FC4FA43F1AB8946300CFFBA5 /* Lab301.vcxproj.filters */,
+				FC4FA4401AB8946300CFFBA5 /* Lab301.vcxproj.user */,
+				FC4FA4411AB8946300CFFBA5 /* Main.cpp */,
+				FC4FA4421AB8946300CFFBA5 /* Release */,
+				FC4FA4531AB8946300CFFBA5 /* UpgradeLog.htm */,
+			);
+			path = Lab301;
+			sourceTree = "<group>";
+		};
+		FC4FA42A1AB8946300CFFBA5 /* Backup */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			path = inf3405_tp4;
+			path = Backup;
+			sourceTree = "<group>";
+		};
+		FC4FA42B1AB8946300CFFBA5 /* Debug */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA42C1AB8946300CFFBA5 /* BuildLog.htm */,
+				FC4FA42D1AB8946300CFFBA5 /* Lab301.exe */,
+				FC4FA42E1AB8946300CFFBA5 /* Lab301.ilk */,
+				FC4FA42F1AB8946300CFFBA5 /* Lab301.log */,
+				FC4FA4301AB8946300CFFBA5 /* Lab301.pdb */,
+				FC4FA4311AB8946300CFFBA5 /* Lab301.tlog */,
+				FC4FA4391AB8946300CFFBA5 /* Main.obj */,
+				FC4FA43A1AB8946300CFFBA5 /* vc120.idb */,
+				FC4FA43B1AB8946300CFFBA5 /* vc120.pdb */,
+			);
+			path = Debug;
+			sourceTree = "<group>";
+		};
+		FC4FA4311AB8946300CFFBA5 /* Lab301.tlog */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA4321AB8946300CFFBA5 /* cl.command.1.tlog */,
+				FC4FA4331AB8946300CFFBA5 /* CL.read.1.tlog */,
+				FC4FA4341AB8946300CFFBA5 /* CL.write.1.tlog */,
+				FC4FA4351AB8946300CFFBA5 /* Lab301.lastbuildstate */,
+				FC4FA4361AB8946300CFFBA5 /* link.command.1.tlog */,
+				FC4FA4371AB8946300CFFBA5 /* link.read.1.tlog */,
+				FC4FA4381AB8946300CFFBA5 /* link.write.1.tlog */,
+			);
+			path = Lab301.tlog;
+			sourceTree = "<group>";
+		};
+		FC4FA4421AB8946300CFFBA5 /* Release */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA4431AB8946300CFFBA5 /* BuildLog.htm */,
+				FC4FA4441AB8946300CFFBA5 /* cl.command.1.tlog */,
+				FC4FA4451AB8946300CFFBA5 /* CL.read.1.tlog */,
+				FC4FA4461AB8946300CFFBA5 /* CL.write.1.tlog */,
+				FC4FA4471AB8946300CFFBA5 /* Lab301.exe.intermediate.manifest */,
+				FC4FA4481AB8946300CFFBA5 /* Lab301.lastbuildstate */,
+				FC4FA4491AB8946300CFFBA5 /* Lab301.log */,
+				FC4FA44A1AB8946300CFFBA5 /* link.command.1.tlog */,
+				FC4FA44B1AB8946300CFFBA5 /* link.read.1.tlog */,
+				FC4FA44C1AB8946300CFFBA5 /* link.write.1.tlog */,
+				FC4FA44D1AB8946300CFFBA5 /* Main.obj */,
+				FC4FA44E1AB8946300CFFBA5 /* mt.command.1.tlog */,
+				FC4FA44F1AB8946300CFFBA5 /* mt.dep */,
+				FC4FA4501AB8946300CFFBA5 /* mt.read.1.tlog */,
+				FC4FA4511AB8946300CFFBA5 /* mt.write.1.tlog */,
+				FC4FA4521AB8946300CFFBA5 /* vc100.pdb */,
+			);
+			path = Release;
+			sourceTree = "<group>";
+		};
+		FC4FA4541AB8946300CFFBA5 /* Lab302 */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA4551AB8946300CFFBA5 /* Backup */,
+				FC4FA4561AB8946300CFFBA5 /* Backup1 */,
+				FC4FA4571AB8946300CFFBA5 /* Debug */,
+				FC4FA4681AB8946300CFFBA5 /* Lab302.sln */,
+				FC4FA4691AB8946300CFFBA5 /* Lab302.v12.suo */,
+				FC4FA46A1AB8946300CFFBA5 /* Lab302.vcproj */,
+				FC4FA46B1AB8946300CFFBA5 /* Lab302.vcxproj */,
+				FC4FA46C1AB8946300CFFBA5 /* Lab302.vcxproj.filters */,
+				FC4FA46D1AB8946300CFFBA5 /* Lab302.vcxproj.user */,
+				FC4FA46E1AB8946300CFFBA5 /* Main.cpp */,
+				FC4FA46F1AB8946300CFFBA5 /* Release */,
+				FC4FA4811AB8946300CFFBA5 /* UpgradeLog.htm */,
+				FC4FA4821AB8946300CFFBA5 /* UpgradeLog2.htm */,
+			);
+			path = Lab302;
+			sourceTree = "<group>";
+		};
+		FC4FA4551AB8946300CFFBA5 /* Backup */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Backup;
+			sourceTree = "<group>";
+		};
+		FC4FA4561AB8946300CFFBA5 /* Backup1 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Backup1;
+			sourceTree = "<group>";
+		};
+		FC4FA4571AB8946300CFFBA5 /* Debug */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA4581AB8946300CFFBA5 /* BuildLog.htm */,
+				FC4FA4591AB8946300CFFBA5 /* Lab302.exe */,
+				FC4FA45A1AB8946300CFFBA5 /* Lab302.ilk */,
+				FC4FA45B1AB8946300CFFBA5 /* Lab302.log */,
+				FC4FA45C1AB8946300CFFBA5 /* Lab302.pdb */,
+				FC4FA45D1AB8946300CFFBA5 /* Lab302.tlog */,
+				FC4FA4651AB8946300CFFBA5 /* Main.obj */,
+				FC4FA4661AB8946300CFFBA5 /* vc120.idb */,
+				FC4FA4671AB8946300CFFBA5 /* vc120.pdb */,
+			);
+			path = Debug;
+			sourceTree = "<group>";
+		};
+		FC4FA45D1AB8946300CFFBA5 /* Lab302.tlog */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA45E1AB8946300CFFBA5 /* cl.command.1.tlog */,
+				FC4FA45F1AB8946300CFFBA5 /* CL.read.1.tlog */,
+				FC4FA4601AB8946300CFFBA5 /* CL.write.1.tlog */,
+				FC4FA4611AB8946300CFFBA5 /* Lab302.lastbuildstate */,
+				FC4FA4621AB8946300CFFBA5 /* link.command.1.tlog */,
+				FC4FA4631AB8946300CFFBA5 /* link.read.1.tlog */,
+				FC4FA4641AB8946300CFFBA5 /* link.write.1.tlog */,
+			);
+			path = Lab302.tlog;
+			sourceTree = "<group>";
+		};
+		FC4FA46F1AB8946300CFFBA5 /* Release */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA4701AB8946300CFFBA5 /* BuildLog.htm */,
+				FC4FA4711AB8946300CFFBA5 /* cl.command.1.tlog */,
+				FC4FA4721AB8946300CFFBA5 /* CL.read.1.tlog */,
+				FC4FA4731AB8946300CFFBA5 /* CL.write.1.tlog */,
+				FC4FA4741AB8946300CFFBA5 /* Lab302.Build.CppClean.log */,
+				FC4FA4751AB8946300CFFBA5 /* Lab302.exe.intermediate.manifest */,
+				FC4FA4761AB8946300CFFBA5 /* Lab302.lastbuildstate */,
+				FC4FA4771AB8946300CFFBA5 /* Lab302.log */,
+				FC4FA4781AB8946300CFFBA5 /* link.command.1.tlog */,
+				FC4FA4791AB8946300CFFBA5 /* link.read.1.tlog */,
+				FC4FA47A1AB8946300CFFBA5 /* link.write.1.tlog */,
+				FC4FA47B1AB8946300CFFBA5 /* Main.obj */,
+				FC4FA47C1AB8946300CFFBA5 /* mt.command.1.tlog */,
+				FC4FA47D1AB8946300CFFBA5 /* mt.dep */,
+				FC4FA47E1AB8946300CFFBA5 /* mt.read.1.tlog */,
+				FC4FA47F1AB8946300CFFBA5 /* mt.write.1.tlog */,
+				FC4FA4801AB8946300CFFBA5 /* vc100.pdb */,
+			);
+			path = Release;
+			sourceTree = "<group>";
+		};
+		FC4FA4831AB8946300CFFBA5 /* Release */ = {
+			isa = PBXGroup;
+			children = (
+				FC4FA4841AB8946300CFFBA5 /* Lab301.exe */,
+				FC4FA4851AB8946300CFFBA5 /* Lab301.pdb */,
+				FC4FA4861AB8946300CFFBA5 /* Lab302.exe */,
+				FC4FA4871AB8946300CFFBA5 /* Lab302.pdb */,
+			);
+			path = Release;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -112,6 +598,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC4FA48B1AB8946300CFFBA5 /* Main.cpp in Sources */,
+				FC4FA48A1AB8946300CFFBA5 /* Main.cpp in Sources */,
+				FC4FA4891AB8946300CFFBA5 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
